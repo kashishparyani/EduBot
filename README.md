@@ -111,7 +111,3 @@ EduBot: Type 'quit' to exit. See you later!
 ```
 
 ---
-
-## 👨‍💻 Built By
-
-Darsh – Just another engineering student making life a bit easier.
